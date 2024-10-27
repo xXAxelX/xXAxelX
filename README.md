@@ -49,7 +49,6 @@ I am an IT student nearing the completion of my degree, with a strong interest i
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
-<di valign="center">
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=xXAxelX&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/XxAxelX)
