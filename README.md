@@ -10,7 +10,7 @@ I am an IT student nearing the completion of my degree, with a strong interest i
 <td width="50%" align="left">
   
 * 🌱 I’m currently learning ...
-  - Node.jd
+  - Node.js
   - React 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
