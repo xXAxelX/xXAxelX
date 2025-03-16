@@ -41,6 +41,7 @@ I am an IT student nearing the completion of my degree, with a strong interest i
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/ORACLE-D5DCDE?style=for-the-badge&logoColor=black">
 </span>
 
 <h4> Other Tools and Technologies </h4>
